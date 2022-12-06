@@ -265,7 +265,6 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-seo-tag
   jekyll-sitemap
-  minima
   minimal-mistakes-jekyll
   tzinfo
   tzinfo-data
