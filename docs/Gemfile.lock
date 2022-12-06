@@ -262,6 +262,7 @@ DEPENDENCIES
   github-pages (~> 227)
   jekyll (~> 3.9.2)
   jekyll-feed
+  jekyll-include-cache
   jekyll-seo-tag
   jekyll-sitemap
   minima

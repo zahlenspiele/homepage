@@ -35,6 +35,7 @@ gem "wdm", :install_if => Gem.win_platform?
 
 # Install 
 gem "minimal-mistakes-jekyll"
+gem 'jekyll-include-cache'
 gem "webrick"#, "~>1.7"
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
