@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/homepage/jekyll/update/2022/12/06/welcome-to-jekyll.html</loc>
+<loc>https://zahlenspiele.github.io/homepage/jekyll/update/2022/12/06/welcome-to-jekyll.html</loc>
 <lastmod>2022-12-06T12:04:01+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/homepage/about/</loc>
+<loc>https://zahlenspiele.github.io/homepage/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/homepage/</loc>
+<loc>https://zahlenspiele.github.io/homepage/</loc>
 </url>
 </urlset>
